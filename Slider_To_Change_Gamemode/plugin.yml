@@ -1,0 +1,9 @@
+name: sliderUI
+main: slider\Main
+author: PLcode
+version: 1
+api: 3.0.0
+
+commands:
+  slider:
+    description: "show slideUI in screen"
